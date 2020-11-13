@@ -5,6 +5,6 @@ I think anyone will appreciates the power of Javascript in developing games like
 ### How to play the game;
 refresh the page to start the game. 
 continue pressing the backspace key for birdie to fly/soar
-live demo: #### https://zickydeng.github.io/GamesJs/
+live demo: ####https://zickydeng.github.io/GamesJs/
 
 2; A simple Doodler Jumps Games.
